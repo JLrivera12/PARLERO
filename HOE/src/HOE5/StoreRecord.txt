@@ -1,0 +1,7 @@
+manok
+Price: 200.0
+Quantity: 5
+Amount Paid: 2000.0
+Total Cost: 1000.0
+Change: 1000.0
+Payment is Enough: true
